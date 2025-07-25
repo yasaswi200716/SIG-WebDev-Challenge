@@ -7,8 +7,14 @@ to show the Astronomy Picture of the Day
 -  Fetches NASA image + short description
 -  Built with HTML, CSS, JS
 -  API usage (used Demo-KEY as api_key)
+-  [NASA APOD API](https://api.nasa.gov/planetary/apod)
 
-## implementation through js
+## 📸 Preview
+![screenshot](./screenshot1.png)
+![screenshot](./scrrenshot2.png)
+
+
+## What I learned 
 - used fetch() to send request to server for data.
 - used response.json() to change the data to json format.
 - .then(response => {...}) checks the response sent by NASA. it runs when it gets a response.
