@@ -11,7 +11,7 @@ to show the Astronomy Picture of the Day
 
 ## 📸 Preview
 ![screenshot](./screenshot1.png)
-![screenshot](./scrrenshot2.png)
+![screenshot](./screenshot2.png)
 
 
 ## What I learned 
