@@ -9,5 +9,9 @@ Built with:
 
 Try it out by adding an author's name and see their books!
 
+## 📸 Preview
+![screenshot](./screenshot3.png)
+
+
 ---
 
